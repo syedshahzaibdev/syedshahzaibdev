@@ -3,7 +3,6 @@ Syed Shahzaib Ali
 Web Developer | Abbottabad, Pakistan
 
 Professional Summary
-
 A results-driven web developer focusing on crafting responsive, scalable, and user-centric web applications. Proficient in modern front-end and back-end technologies, I leverage clean code and best practices to deliver seamless digital experiences.
 
 Technical Expertise
